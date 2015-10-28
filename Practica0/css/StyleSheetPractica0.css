@@ -1,0 +1,114 @@
+﻿body   /* Asterísco, aplica el estilo a cualquier elemento dentro del body*/
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: Tahoma;
+    font-size: 10pt;
+}
+
+header, section, article {
+    display: block;  /*Muestra como elementos de bloque*/
+}
+
+#tot 
+{    
+    width: 980px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+    /* > Refiere a la primera etiqueta del primer nivel del html*/
+    #tot > header
+     {  
+        margin-bottom: 10px;
+        height: 200px;
+    }
+
+
+#logo
+{
+    float: left;
+    width: 289px;
+    height: 106px;
+    background-image:url(../Imatges/logo-cepnet.png);
+}
+
+#data
+{
+    float:right
+}
+
+section {
+    border:1px solid rgb(42, 28, 183);
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+section header {
+    height: 30px;
+    background-color: rgb(42, 28, 183);
+    color: white;
+    font-weight: bold;
+    padding-top: 8px;
+    padding-left: 10px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    box-sizing:border-box;
+}
+section article {
+    padding: 15px;
+    height: 136px;
+}
+
+#cursMatriculat {
+    width: 480px;
+    float: left;
+}
+#cursNou {
+    width: 480px;
+    float: right;   
+}
+#resum {
+    clear:both; 
+}
+
+#CheckBoxListModul {
+    width: 250px;
+}
+#ListBoxResum {
+    width: 100%;
+    height: auto;
+}
+    
+
+.etiquetas {
+    display: inline-block;
+    width: 150px;
+}
+.boxesAndDropDownLists {
+    display: inline-block;
+    width: 250px;
+    padding-left: 5px;
+}
+.messagesAndValidations {
+    display: inline-block;
+    color: rgb(255, 129, 0); 
+    font-weight: bold;
+    padding-left: 5px;
+}
+.botones {
+
+   height: 30px;
+   background-color: rgb(255, 129, 0);
+   color: white;
+   padding-left: 5px;
+   padding-right: 5px;
+   margin-bottom: 10px;
+   font-weight: bold;
+}
+

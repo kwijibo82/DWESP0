@@ -1,0 +1,5 @@
+\\psf\home\documents\visual studio 2012\Projects\Practica0\Practica0\bin\Practica0.dll
+\\psf\home\documents\visual studio 2012\Projects\Practica0\Practica0\bin\Practica0.pdb
+\\psf\home\documents\visual studio 2012\Projects\Practica0\Practica0\obj\Debug\Practica0.dll
+\\psf\home\documents\visual studio 2012\Projects\Practica0\Practica0\obj\Debug\Practica0.pdb
+\\psf\home\documents\visual studio 2012\Projects\Practica0\Practica0\obj\Debug\Practica0.csprojResolveAssemblyReference.cache
